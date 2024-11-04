@@ -1,0 +1,15 @@
+## how to run script:
+
+## run ubuntu on cmd or or ur machine does matter some like this :
+## FOR WINDOWS TYPE: 
+wsl
+python3 generate_passwords.py > password.txt
+--------------------------------------------------------
+## MAKE SURE THE PYTHON SCRIPT IS IN THE DIRECTORY WITH YOUR HOME FOLDER
+
+## how to get there? goto to file explore, click on edit address, type "\wsl\\"  your Ubuntu or what ever linux your using
+## should pop up... after u put the python script in there (in home/user/ folder), run it like above.
+
+## then goto the file explore and look at it create a file called "passwords.txt" then open it. it will be filled with the passwords
+## it created.
+ 
